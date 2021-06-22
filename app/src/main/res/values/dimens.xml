@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_height">56dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_double">32dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="radius_s">4dp</dimen>
+    <dimen name="radius_m">8dp</dimen>
+    <dimen name="item_height">88dp</dimen>
+    <dimen name="edit_height">32dp</dimen>
+    <dimen name="search_icon_size">56dp</dimen>
+    <dimen name="setting_bar_size">52dp</dimen>
+
+</resources>

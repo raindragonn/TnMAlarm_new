@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">튜브&amp;뮤직 알람</string>
+    <string name="toast_network_check">네트워크 상태를 확인해 주세요.</string>
+    <string name="app_title">Tube &amp; Music Alarm</string>
+    <string name="app_start">시작하기</string>
+    <string name="main_guide">알람을 추가해 주세요!</string>
+    <string name="search_guide">검색어를 입력해주세요.</string>
+    <string name="youtube_need">유튜브 앱이 필요합니다.</string>
+    <string name="search_empty">검색결과가 없습니다.</string>
+    <string name="edit_title">알람 추가</string>
+    <string name="save">저장</string>
+    <string name="edit_alarm_title_guide">알람 이름:</string>
+    <string name="edit_alarm_title_hint">알람 이름을 정해주세요.</string>
+    <string name="edit_weak_guide">요일 설정</string>
+    <string name="monday">월</string>
+    <string name="tuesday">화</string>
+    <string name="wednesday">수</string>
+    <string name="thursday">목</string>
+    <string name="friday">금</string>
+    <string name="saturday">토</string>
+    <string name="sunday">일</string>
+    <string name="edit_alarm_select">선택 알람:</string>
+    <string name="edit_volume_guide">음량 선택</string>
+    <string name="alarm_preview">알람 미리보기</string>
+    <string name="edit_vibrate_guide">진동 사용</string>
+    <string name="delete">삭제</string>
+    <string name="result">확인</string>
+    <string name="alert">알림</string>
+    <string name="alert_delete">현재 알람을 삭제합니다</string>
+    <string name="alert_back">변경사항이 저장되지 않습니다.</string>
+    <string name="alarm_off">알람 끄기</string>
+    <string name="setting">설정</string>
+    <string name="version_guide">버전</string>
+    <string name="defaultSong_guide">기본 알람음 설정</string>
+    <string name="open_source_library">open Source Library</string>
+    <string name="alert_permission_guide">알람이 정상적으로 작동하려면 다른 앱 위에 표시 권한이 필요합니다.</string>
+    <string name="cancel">취소</string>
+    <string name="tutorial_guide">사용법 확인</string>
+    <string name="adm">ca-app-pub-9476138028809444~8204166144</string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876831781380",
+    "project_id": "tnmalarm",
+    "storage_bucket": "tnmalarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876831781380:android:33b477cedc6453515e3b51",
+        "android_client_info": {
+          "package_name": "com.bluepig.tnmalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876831781380-icso6csbrqh1f43vtu5so84pf3ics59f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluepig.tnmalarm",
+            "certificate_hash": "7c26cfd8b8567c7fa130936a31cffc7e3dfb4af9"
+          }
+        },
+        {
+          "client_id": "876831781380-k1fbiegm8p1bvvlnfq31ajf2dbvi2p12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKPwRL0M3iKjiOH6WRpkIIW0ef9mlBls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876831781380-k1fbiegm8p1bvvlnfq31ajf2dbvi2p12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

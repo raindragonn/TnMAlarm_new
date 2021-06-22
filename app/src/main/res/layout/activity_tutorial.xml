@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:orientation="vertical">
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/vp_tutorial"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:overScrollMode="never" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:paddingBottom="60dp">
+
+            <com.rd.PageIndicatorView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                app:piv_animationType="worm"
+                app:piv_selectedColor="@color/primary_light"
+                app:piv_unselectedColor="@color/disable"
+                app:piv_viewPager="@id/vp_tutorial" />
+
+            <Button
+                android:id="@+id/btn_start"
+                style="@style/DefaultButton"
+                android:text="@string/app_start"
+                android:visibility="invisible"/>
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+</layout>
